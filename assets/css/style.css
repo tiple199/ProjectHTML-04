@@ -154,7 +154,9 @@ a{
     display: flex;
     align-items: center;
 }
-.header .contact .btn{
+.contact__header .btn{
+    font-size: 1.8rem;
+    min-width: 205px;
     padding: 15px 46px;
     margin-right: 38px;
     font-size: 1.8rem;
